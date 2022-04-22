@@ -5,6 +5,10 @@
 	<artifactId>cleancoders</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+	<properties>
+		<maven.compiler.source>13</maven.compiler.source>
+		<maven.compiler.target>13</maven.compiler.target>
+	</properties>
 	<name>cleancoders Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
